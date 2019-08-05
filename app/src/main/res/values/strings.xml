@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tvs</string>
+    <string name="username">Username</string>
+    <string name="name_input">Enter username</string>
+    <string name="password">Password</string>
+    <string name="password_input">Enter password</string>
+    <string name="login">Login</string>
+    <string name="emp_name">Name</string>
+    <string name="emp_role">Role</string>
+    <string name="emp_address">Address</string>
+    <string name="emp_salary">Salary</string>
+    <string name="emp_join_date">Join Date</string>
+</resources>
